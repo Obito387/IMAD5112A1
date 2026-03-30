@@ -13,3 +13,8 @@ https://youtu.be/1dWb6bTv6WI?si=vsF6EtQCtx7-8B5f
 ![greeting](screenshots/greeting.png)
 
 ![morning](screenshots/morning.png)
+
+
+# Author
+
+## Thabelo Thanyani
